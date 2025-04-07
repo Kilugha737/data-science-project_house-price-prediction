@@ -44,15 +44,6 @@ Test R²: ~0.76
 
 Most important features: SQUARE_FT, LONGITUDE, LATITUDE, and location-related encodings
 
-🚀 How to Use
-Clone the repository
-
-Install dependencies
-
-Run the Jupyter notebook or use the provided .py scripts
-
-Use the make_predictions() function to generate predictions on new data
-
 📌 Future Work
 Try advanced models (e.g., XGBoost, LightGBM)
 
