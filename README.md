@@ -3,6 +3,7 @@
 This repository contains a complete end-to-end machine learning workflow to solve a real-world House Price Prediction problem using a dataset from Kaggle. The project focuses on data wrangling, exploratory data analysis, feature engineering, model building, hyperparameter tuning, and model evaluation.
 
 📊 Project Overview
+
 The goal is to predict house prices (in Lakhs) based on several property-related features, such as square footage, number of rooms, location, and more. A Random Forest Regressor was trained using an optimized pipeline, and the best model was selected through GridSearchCV.
 
 🔍 Key Highlights
