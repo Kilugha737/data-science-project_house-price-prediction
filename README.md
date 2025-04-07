@@ -24,19 +24,6 @@ The goal is to predict house prices (in Lakhs) based on several property-related
 
 🧾 Reusable prediction function for new data
 
-📁 Folder Structure
-Copy
-Edit
-📦 house-price-prediction/
-├── 📜 train.csv
-├── 📜 test.csv
-├── 📂 notebooks/
-│   └── house_price_model.ipynb
-├── 📂 outputs/
-│   ├── best_model.joblib
-│   └── feature_importance.png
-├── 📜 requirements.txt
-└── 📜 README.md
 🛠️ Technologies Used
 Python (3)
 
